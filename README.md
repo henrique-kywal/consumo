@@ -27,6 +27,6 @@ http://127.0.0.1:8000/docs#/
 ### Imagens ###
 
 - [C4 no draw.io](https://raw.githubusercontent.com/henrique-kywal/consumo/a57fd510dbebcd752dc6c7ea3161d82b258cf414/api-consumo/docs/API%20Consumo.drawio.svg)  
-- [Preview do Swagger](https://github.com/henrique-kywal/consumo/blob/main/api-consumo/docs/API_Consumo_-_Swagger_UI.png?raw=true)  
-- [Exemplo da tela do vscode](https://github.com/henrique-kywal/consumo/blob/main/api-consumo/docs/tela_vscode_app_consumo.png?raw=true)
+- [Preview do Swagger](https://raw.githubusercontent.com/henrique-kywal/consumo/refs/heads/main/api-consumo/docs/API_Consumo_-_Swagger_UI.png)  
+- [Exemplo da tela do vscode](https://raw.githubusercontent.com/henrique-kywal/consumo/refs/heads/main/api-consumo/docs/tela_vscode_app_consumo.png)
 
